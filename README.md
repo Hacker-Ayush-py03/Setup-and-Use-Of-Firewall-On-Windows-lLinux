@@ -1,5 +1,4 @@
-# Setup-and-Use-Of-Fielrewall-in-Winsows-linux
-# 📘 README – Setup and Use a Firewall on Windows / Linux
+# Setup-and-Use-Of-Firewall-On-Winsows/Linux
 
 ## 🎯 Objective
 The purpose of this lab is to configure and test basic firewall rules on both Windows and Linux (UFW).  
